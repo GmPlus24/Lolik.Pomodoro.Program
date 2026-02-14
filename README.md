@@ -1,6 +1,32 @@
-This program is created with Python and PyQt. For Managing Time.
+# Lolik Pomodoro Timer 🍅
 
-Python Website: https://www.python.org/
-Qt Website: https://www.qt.io/
+A clean and simple desktop Pomodoro timer built with **Python** and **PyQt**.  
+Take control of your time and boost your productivity! ⏱️
 
-CC License: Lolik © 2024 by Gm is licensed under CC BY-SA 4.0
+## Features
+
+- Start, pause, restart, and stop timer easily  
+- Work, Break, and Long Break sessions with configurable durations  
+- Customizable notification sound for session end  
+- Three window sizes: Medium, Small, and Tiny  
+- Option to stay **Always on Top** in Tiny mode  
+- Hide to system tray for minimal distraction  
+- 7-segment style display (optional)  
+- Progress bar to track session completion  
+- Two operation modes: **Single Shot** and **Auto/Continuous**  
+- Easy and intuitive to use, with a clean, customizable interface  
+- Real-time display of current session status
+
+## Screenshot
+*(Insert screenshot of your app here)*
+
+## Run
+- Extract the zip file (if needed)  
+- Run `Lolik.exe`  
+
+## Technologies
+- [Python](https://www.python.org/)  
+- [PyQt](https://www.qt.io/)
+
+## License
+Lolik © 2024 by Gm is licensed under **CC BY-SA 4.0**
