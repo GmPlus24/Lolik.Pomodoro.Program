@@ -18,9 +18,9 @@ Take control of your time and boost your productivity! ⏱️
 - Real-time display of current session status
 
 ## Screenshot
-![Icon Example](assets/screenshot1.jpg)
-![Icon Example](assets/screenshot2.jpg)
-![Icon Example](assets/screenshot3.jpg)
+![Icon Example](assets/screenshot1.png)
+![Icon Example](assets/screenshot2.png)
+![Icon Example](assets/screenshot3.png)
 
 ## Run
 - Extract the zip file (if needed)  
