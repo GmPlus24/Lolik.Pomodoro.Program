@@ -1,0 +1,43 @@
+<RCC>
+  <qresource>
+	<file alias="lolik_main_icon.png">icons/main_icon/lolik_main_icon.png</file>
+	<file alias="lolik_main_icon_small.png">icons/main_icon/lolik_main_icon_small.png</file>
+	<file alias="lolik_main_icon_small_2.png">icons/main_icon/lolik_main_icon_small_2.png</file>
+	
+	<file alias="lolik_splash_screen.png">icons/splash_screen/lolik_splash_screen.png</file>
+	
+	<file alias="lolik_main_icon.ico">icons/main_icon/lolik_main_icon.ico</file>
+	
+	
+	
+	<file alias="data_scaner.wav">sounds/data_scaner.wav</file>
+	<file alias="emergency_alarm.wav">sounds/emergency_alarm.wav</file>
+	<file alias="ring_sound_effect.wav">sounds/ring_sound_effect.wav</file>
+	<file alias="security_facility_breach_alarm.wav">sounds/security_facility_breach_alarm.wav</file>
+	<file alias="smartphone_ringtone.wav">sounds/smartphone_ringtone.wav</file>
+	
+	
+	
+	<file alias="break_icon.png">icons/break_icon.png</file>
+    <file alias="cancel_icon.png">icons/cancel_icon.png</file>
+    <file alias="collapse_icon.png">icons/collapse_icon.png</file>
+	<file alias="expand_icon.png">icons/expand_icon.png</file>
+	<file alias="information_icon.png">icons/information_icon.png</file>
+    <file alias="long_break_icon.png">icons/long_break_icon.png</file>
+	<file alias="monitor_icon.png">icons/monitor_icon.png</file>
+    <file alias="mute_icon.png">icons/mute_icon.png</file>
+	<file alias="notification_bell_icon.png">icons/notification_bell_icon.png</file>
+    <file alias="pause_icon.png">icons/pause_icon.png</file>
+	<file alias="play_icon.png">icons/play_icon.png</file>
+	<file alias="qt_icon.png">icons/qt_icon.png</file>
+	<file alias="quit_icon.png">icons/quit_icon.png</file>
+	<file alias="settings_icon.png">icons/settings_icon.png</file>
+	<file alias="sound_icon.png">icons/sound_icon.png</file>
+	<file alias="start_icon.png">icons/start_icon.png</file>
+	<file alias="stop_icon.png">icons/stop_icon.png</file>
+	
+	
+
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
